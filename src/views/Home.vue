@@ -77,8 +77,13 @@ export default {
   transform: scale(1.1);
 }
 
+@font-face {
+  font-family: 'KCC_Hanbit.ttf';
+  src: url('/fonts/KCC_Hanbit.ttf') format('truetype');
+}
+
 .name {
-  font-family: 'KCC 한빛체', sans-serif;
+  font-family: 'KCC_Hanbit.ttf', sans-serif;
   font-size: 14px;
   margin-top: 5px;
 }
