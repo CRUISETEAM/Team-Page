@@ -78,12 +78,12 @@ export default {
 }
 
 @font-face {
-  font-family: 'KCC_Hanbit.ttf';
+  font-family: 'KCC Hanbit Gothic';
   src: url('/fonts/KCC_Hanbit.ttf') format('truetype');
 }
 
 .name {
-  font-family: 'KCC_Hanbit.ttf', sans-serif;
+  font-family: 'KCC Hanbit Gothic', sans-serif;
   font-size: 14px;
   margin-top: 5px;
 }
